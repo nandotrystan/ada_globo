@@ -115,6 +115,7 @@ Alunos do curso de Formação em Dados - DS-PY-02
 - Pierre
 - Maria
 - Beatriz
+- Nando
 
 Projeto orientado pelos professores do programa
 
