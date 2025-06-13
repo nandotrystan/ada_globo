@@ -7,6 +7,7 @@ Este projeto visa aplicar os princípios da Programação Orientada a Objetos (P
 📦 Estrutura do Projeto
 
 # projeto_engajamento_fase2/
+<pre>```
 ├── main.py                      # Script principal de execução
 ├── interacoes_globo.csv        # Arquivo com os dados de interações
 ├── entidades/
@@ -18,7 +19,10 @@ Este projeto visa aplicar os princípios da Programação Orientada a Objetos (P
 ├── analise/
 │   ├── __init__.py
 │   └── sistema.py              # Classe SistemaAnaliseEngajamento
-└── README.md                   # (Você está aqui!)
+└── README.md                   # (Você está aqui!)```
+</pre>
+
+
 🧩 Classes Principais
 🔹 Plataforma
 Representa uma plataforma de mídia (ex: Globoplay, G1).
@@ -108,6 +112,9 @@ Bibliotecas padrão: datetime, csv
 
 ✍️ Autores / Colaboradores
 Alunos do curso de Formação em Dados - DS-PY-02
+- Pierre
+- Maria
+- Beatriz
 
 Projeto orientado pelos professores do programa
 
