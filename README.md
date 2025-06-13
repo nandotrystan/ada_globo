@@ -123,8 +123,6 @@ O projeto foca em boas práticas de POO, incluindo encapsulamento, herança, pol
 
 A modularização e separação em pacotes visa facilitar manutenção, testes e extensões futuras.
 
-Se precisar, posso também gerar esse README.md como um arquivo pronto para download. Deseja isso?
-
 
 
 
